@@ -1,6 +1,6 @@
 # How to add music to Google slides?
 
-[![how to add music to google slides](redd.png)](https://github.com/coreencode/how.to.add.music.to.google.slides)
+[![how to add music to google slides](redd.png)](https://icncomputer.com/how-to-add-music-to-google-slides/)
 
 
 
